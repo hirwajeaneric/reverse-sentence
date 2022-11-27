@@ -1,0 +1,23 @@
+{
+  "name": "@hirwa_jean_eric/reverse-sentence",
+  "version": "0.1.0",
+  "description": "Reverses a sentence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/prettier/bin-prettier.js . --write"
+  },
+  "author": "Hirwa Jean Eric",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirwajeaneric/reverse-sentence.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hirwajeaneric/reverse-sentence/issues"
+  },
+  "homepage": "https://github.com/hirwajeaneric/reverse-sentence#readme",
+  "devDependencies": {
+    "prettier": "2.8.0"
+  }
+}
